@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyLocalization</string>
+    <string name="form_data">Compila questo modulo per registrarti come utente</string>
+    <string name="checkbox">Ho letto e accetto i termini</string>
+    <string name="full_name">Nome e cognome</string>
+    <string name="email">E-mail</string>
+    <string name="phone">Telefono</string>
+    <string name="password">Parola d\'ordine</string>
+    <string name="simpan">Salvare</string>
+    <string name="set_language">Imposta lingua</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyLocalization</string>
+    <string name="form_data">Silahkan isi biodata dibawah ini</string>
+    <string name="checkbox">Saya telah membaca dan menyetujui ketentuan</string>
+    <string name="full_name">Nama Lengkap</string>
+    <string name="email">Email</string>
+    <string name="phone">Handphone</string>
+    <string name="password">Kata Sandi</string>
+    <string name="simpan">Simpan</string>
+    <string name="set_language">Ubah Bahasa</string>
+</resources>
